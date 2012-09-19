@@ -6,7 +6,7 @@ Please note: This project is still in its early stages and is intended for *crea
 
 Official GoodData API Docs: http://developer.gooddata.com/api/
 
-Gooddata Apiary: http://docs.gooddata.apiary.io/
+GoodData Apiary: http://docs.gooddata.apiary.io/
 
 
 Usage
