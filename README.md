@@ -24,4 +24,4 @@ Add your GoodData loging information (email, password) then execute the file
   project = Project(connection).create(name=proj_name)
   project = Project(connection).load(name=proj_name)
   dataset = Quotes(project)
-  dataset.upload()
+dataset.upload()
