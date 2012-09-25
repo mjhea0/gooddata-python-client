@@ -27,7 +27,9 @@ Add your GoodData login information (email, password) to index_quotes_examples.p
     project = Project(connection).load(name=proj_name)
     dataset = Quotes(project)
     dataset.upload()
-    
+
+Sample: http://www.youtube.com/watch?v=XxX70Wahb_Q&feature=plcp
+
     
 Normal Usage
 ------------
