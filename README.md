@@ -10,9 +10,9 @@ GoodData Apiary: http://docs.gooddata.apiary.io/
 
 
 Example
------
+------
 
-Add your GoodData loging information (email, password) then execute the file
+Add your GoodData login information (email, password) to index_quotes_examples.py then execute the file
 
     from gooddataclient.connection import Connection
     from gooddataclient.project import Project
@@ -25,3 +25,15 @@ Add your GoodData loging information (email, password) then execute the file
     project = Project(connection).load(name=proj_name)
     dataset = Quotes(project)
     dataset.upload()
+    
+    
+Normal Usage
+------------
+
+Update the variables in the index, csv, and dateset files.
+
+
+Next Update
+-----------
+
+Update client library to allow for *updating* a project.
