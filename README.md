@@ -30,10 +30,16 @@ Add your GoodData login information (email, password) to index_quotes_examples.p
 Normal Usage
 ------------
 
-Update the variables in the index, csv, and dateset files.
+Update the variables in the index, csv, and dataset files.
 
 
 Next Update
 -----------
 
 Update client library to allow for *updating* a project.
+
+
+License
+-------
+
+Original project can be found at https://github.com/mjhea0/gooddata-python
