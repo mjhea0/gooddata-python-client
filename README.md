@@ -37,8 +37,11 @@ Normal Usage
 Update the variables in the index, csv, and dataset files.
 
 
-Next Update
+Wish List
 -----------
 
 Update client library to allow for *updating* a project.
+Web App
+Integration with MySQL
+Simplify data modeling
 
