@@ -2,7 +2,7 @@ GoodData API Client - Python
 ============================
 
 
-Please note: This project is still in its early stages and is intended for *creating* a project on GoodData only. For help with *updating* a project, please see this video - http://www.youtube.com/watch?v=Cl5ZTvQSFLQ
+Please note: This project is still in its early stages.
 
 Also, the original project can be found at https://github.com/mjhea0/gooddata-python
 
@@ -34,6 +34,9 @@ Normal Usage
 ------------
 
 Update the variables in the index, csv, and dataset files.
+
+To do an update your project with new data comment out this line in the index.py file-
+    project = Project(connection).create(name=proj_name)
 
 
 Wish List
