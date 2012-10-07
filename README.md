@@ -8,6 +8,7 @@ Also, the original project can be found at https://github.com/mjhea0/gooddata-py
 
 - Official GoodData API Docs: http://developer.gooddata.com/api/
 - GoodData Apiary: http://docs.gooddata.apiary.io/
+- Official example of loading data vis REST API: http://developer.gooddata.com/advanced-guides/loading-data/loading-data-via-api
 
 
 Example
