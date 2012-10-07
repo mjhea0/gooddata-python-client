@@ -44,4 +44,6 @@ Wish List
 3. Integration with MySQL
 4. Simplify data modeling
 5. Update documentation
+6. Debugging/Cleaning
+7. Supporting Incremental Load (multiple load interface?)
 
