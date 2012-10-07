@@ -39,7 +39,6 @@ Update the variables in the index, csv, and dataset files.
 Wish List
 -----------
 
-1. Update client library to allow for *updating* a project
 1. Simplying data loading process (dataset.py)
 2. Web App
 3. Integration with MySQL
