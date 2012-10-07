@@ -35,9 +35,10 @@ Normal Usage
 
 Update the variables in the index, csv, and dataset files.
 
-To do an update your project with new data comment out this line in the index.py file-
+To do update your project with new data, add your new data to the CSV file, comment out this line in the index.py file-
     project = Project(connection).create(name=proj_name)
 
+-and then execute the file.
 
 Wish List
 -----------
